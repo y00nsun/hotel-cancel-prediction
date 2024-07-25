@@ -1,7 +1,8 @@
-# Predicting Hotel Booking Cancellations
+# 🏨 Predicting Hotel Booking Cancellations
 ### Objective
 - The objective of this project is to develop a model that can accurately predict whether a customer will cancel their hotel booking. 
 - By identifying patterns and factors that influence cancellations, the model aims to help hotel management mitigate revenue losses and improve customer retention strategies.
+<br>
 
 ## 1. Data Exploration
 ### (1) Checking for Missing/Outliers
@@ -33,9 +34,8 @@
 ## 4. Result
 |   Model Type  |  Accuracy  |
 |:-------------:|:----------:|
-| Decision Tree |  86.__%    |
+| Decision Tree |  86.__%    |  
 
+<br>
 
-
-
-**Final Evaluation and Report Submission:** 2023-06-23
+Final Evaluation Date : 2023-06-23
